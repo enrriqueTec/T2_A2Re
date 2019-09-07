@@ -1,0 +1,40 @@
+body,html{
+	font-family: inherit;
+}
+h1{
+  color:rgb(167, 19, 31);
+  border: 3px solid rgb(217, 186, 20);
+  text-align: center;
+  padding: 15px 100px;
+}
+h2{
+  text-align: center;
+}
+td.principal{
+  color: black;
+  font-weight: bold;
+  text-align: center;
+  background-color: white;
+  font-size: 15px;
+}
+td.celdas1{
+  color: rgb(98, 82, 91);
+  background-color: white;
+  text-align: center;
+}
+
+
+th{
+  text-align: center;
+  font-size: 15px;
+  color: white;
+  background-color: rgb(167, 19, 31);
+  width: 18px;
+  border: 1px solid rgb(167, 19, 31);
+
+}
+table
+{
+    margin: auto;
+    background-color: rgb(217, 217, 217);
+}
